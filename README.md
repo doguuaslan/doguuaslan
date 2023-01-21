@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect With Me:</h3>
 
-<div align=center>
+<div align=left>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doguaslan/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/doguuaslan)
@@ -27,9 +27,9 @@
 
 -----
 
-# 🔧 Technologies & Tools
+<h3 align="center">🔧 Technologies & Tools</h3>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" height="40" width="40">
       <img
