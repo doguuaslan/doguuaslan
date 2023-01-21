@@ -11,7 +11,8 @@
 <h3 align="center">Current Status</h3>
 
 <div align="center">
-* 👀 I’m interested in Full-Stack Web Development.
+* 👀 I’m interested in Full-Stack Web Development. 
+</br>
 * 🌱 I’m currently learning JavaScript Intermediate.
 </div>
 
