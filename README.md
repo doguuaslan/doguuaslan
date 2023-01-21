@@ -3,17 +3,19 @@
 <div align="justify">
     My name is Dogukan and I'm a Junior Frontend Developer who loves to work with JavaScript technologies. Right now I am focused on learning everything that is related to Web Development including frameworks.
 </div>
-<br/>
 
-**Current Status:**
 ----
+
+<h3 align="center">Current Status:</h3>
 
 * 👀 I’m interested in Full-Stack Web Development.
 * 🌱 I’m currently learning JavaScript Intermediate.
 
-<h3 align="left">Connect With Me:</h3>
+----
 
-<div align=left>
+<h3 align="center">Connect With Me:</h3>
+
+<div align=center>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doguaslan/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/doguuaslan)
@@ -23,9 +25,7 @@
 
 </div>
 
-
-
------
+----
 
 <h3 align="center">🔧 Technologies & Tools</h3>
 
