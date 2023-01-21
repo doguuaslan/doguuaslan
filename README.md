@@ -1,19 +1,23 @@
 <h1 align="center">Junior Frontend Developer</h1>
-</br>
+
+----
+
 <div align="justify">
     My name is Dogukan and I'm a Junior Frontend Developer who loves to work with JavaScript technologies. Right now I am focused on learning everything that is related to Web Development including frameworks.
 </div>
 
 ----
 
-<h3 align="center">Current Status:</h3>
+<h3 align="center">Current Status</h3>
 
+<div align="center">
 * 👀 I’m interested in Full-Stack Web Development.
 * 🌱 I’m currently learning JavaScript Intermediate.
+</div>
 
 ----
 
-<h3 align="center">Connect With Me:</h3>
+<h3 align="center">Connect With Me</h3>
 
 <div align=center>
 
