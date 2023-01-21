@@ -1,15 +1,17 @@
-<h1 align="center">Junior Frontend Developer<span color="blue">
-
+<h1 align="center">Junior Frontend Developer</h1>
+</br>
 <div align="justify">
     My name is Dogukan and I'm a Junior Frontend Developer who loves to work with JavaScript technologies. Right now I am focused on learning everything that is related to Web Development including frameworks.
 </div>
 <br/>
+
 **Current Status:**
 ----
+
 * 👀 I’m interested in Full-Stack Web Development.
 * 🌱 I’m currently learning JavaScript Intermediate.
 
-<h2 align="left">Connect With Me:</h2>
+<h3 align="left">Connect With Me:</h3>
 
 <div align=center>
 
@@ -21,11 +23,15 @@
 
 </div>
 
+
+
+-----
+
 # 🔧 Technologies & Tools
 
 <table>
   <tr>
-    <td align="center" height="60" width="60">
+    <td align="center" height="40" width="40">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="25"
@@ -34,7 +40,7 @@
       />
       <br /><strong>HTML5</strong>
     </td>
-    <td align="center" height="60" width="60">
+    <td align="center" height="40" width="40">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
         width="25"
@@ -43,7 +49,7 @@
       />
       <br /><strong>CSS3</strong>
     </td>
-    <td align="center" height="60" width="60">
+    <td align="center" height="40" width="40">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="25"
@@ -52,7 +58,7 @@
       />
       <br /><strong>JavaScript</strong>
     </td>
-    <td align="center" height="60" width="60">
+    <td align="center" height="40" width="40">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
         width="25"
@@ -61,7 +67,7 @@
       />
       <br /><strong>VS Code</strong>
     </td>
-    <td align="center" height="60" width="60">
+    <td align="center" height="40" width="40">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="25"
@@ -70,7 +76,7 @@
       />
       <br /><strong>React</strong>
     </td>
-    <td align="center" height="60" width="60">
+    <td align="center" height="40" width="40">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
         width="25"
