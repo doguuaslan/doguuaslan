@@ -93,7 +93,7 @@
     </td>
     <td align="center" height="40" width="40">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-plain.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
         width="25"
         height="25"
         alt="Sass"
