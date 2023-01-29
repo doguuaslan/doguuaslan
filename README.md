@@ -91,5 +91,14 @@
       />
       <br /><strong>Bootstrap</strong>
     </td>
+    <td align="center" height="40" width="40">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-plain.svg"
+        width="25"
+        height="25"
+        alt="Sass"
+      />
+      <br /><strong>Sass</strong>
+    </td>
   </tr>
 </table>
